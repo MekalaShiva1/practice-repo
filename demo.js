@@ -1,6 +1,4 @@
 
- hello checking new files 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +8,8 @@
 </head>
 <body>
     <h1>This is a Heading</h1>
-    <p>This is a paragraph of text.</p>
-</body>
-</html>I
+    <p>This is a demo file checking and practice 
+	</p> 
+	<h1>This is a second Heading</h1>
+	
+
